@@ -1,5 +1,5 @@
 # AIVA - Advanced AI Voice Assistant
-## 🎯 Enhanced Prompt Engineering Examples & Final Year Project
+## 🎯 Prompt Engineering Examples in Our Final Year Project
 
 **AIVA (Advanced AI Voice Assistant)** is a production-ready voice-controlled assistant that demonstrates enterprise-level prompt engineering techniques across multiple domains including Excel automation, email composition, system control, and intelligent error recovery.
 
@@ -19,7 +19,7 @@ This project showcases sophisticated prompt engineering patterns and techniques 
 
 ---
 
-## 🧠 Advanced Prompt Engineering Examples
+## 🧠 Prompt Engineering Used in Our Project
 
 The following prompts are the actual implementations used in our AIVA project. These demonstrate sophisticated prompt patterns including few-shot learning, chain-of-thought reasoning, context injection, and intelligent error recovery.
 
